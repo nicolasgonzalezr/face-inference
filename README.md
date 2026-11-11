@@ -70,7 +70,7 @@ The script reads all the files in `/Recordings` and creates a `/ProcessedRecordi
 
 [`inferencePreview.py`](inferencePreview.py) combines the processed face video with the extracted emotion and action-unit estimates to generate annotated MP4 previews.
 
-<https://github.com/user-attachments/assets/3bd7757d-dade-4a35-893b-71e1387c79b6>
+https://github.com/user-attachments/assets/df5f8efc-9d63-40a4-a483-e03f1c747399
 
 *Note.* Bottom bars show selected AU estimates from OpenGraphAU; right-hand bars show AffectNet-7 emotion estimates from DDAMFN.
 
