@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+faceInference-env/
+venv/
+.mp_env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+.spyproject/
+
+# Recordings
+Recordings
+ProcessedRecordings
+
+#SSL KEYS
+*.pem
+
+# Heavy model weights
+MEGraphAU/checkpoints/*.pth
+OpenFace3/weights/MLT_backbone.pth
+
+ProcessedLog.json
+TesisData/
+
+# Development variants and side scripts
+/main copy.py
+/FERAUPPG copy.py
+/inferencePreview copy.py
+/mainWeb.py
+/scriptCamara.py
+/requirements_mediapipe.txt
+
+# Local notes and diagnostics
+/_broken_freeze.txt
+/errors.txt
+/experiment.txt
+
+# Separately obtained model sources
+/OpenFace3/
+/MEGraphAU/
