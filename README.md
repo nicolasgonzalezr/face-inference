@@ -151,4 +151,4 @@ Model architectures, upstream implementations, and pretrained weights retain the
 
 For questions about acquisition, model integration, or recording processing:
 
-**Nicolás González-Raposo** — [nicgonzalezr\@udd.cl](mailto:nicgonzalezr@udd.cl)
+**Nicolás González-Raposo** — [nicgonzalezr\@udd.cl](mailto:nicgonzalezr@udd.cl) · [ORCID](https://orcid.org/0000-0002-2723-0354)
